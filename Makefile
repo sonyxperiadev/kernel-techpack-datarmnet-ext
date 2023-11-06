@@ -1,2 +1,2 @@
 obj-y += offload/
-obj-y += sch/
+obj-y += shs/
